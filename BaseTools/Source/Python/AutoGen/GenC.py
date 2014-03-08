@@ -20,7 +20,7 @@ from Common import EdkLogger
 from Common.BuildToolError import *
 from Common.DataType import *
 from Common.Misc import *
-from Common.String import StringToArray
+from Common.StringUtils import StringToArray
 from StrGather import *
 from GenPcdDb import CreatePcdDatabaseCode
 

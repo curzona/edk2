@@ -17,7 +17,7 @@
 from FdfParserLite import FdfParser
 from Table.TableFdf import TableFdf
 from CommonDataClass.DataClass import MODEL_FILE_FDF, MODEL_PCD, MODEL_META_DATA_COMPONENT
-from String import NormPath
+from StringUtils import *NormPath
 
 ## FdfObject
 #

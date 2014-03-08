@@ -17,7 +17,7 @@
 import os
 import EdkLogger as EdkLogger
 import Database
-from String import *
+from StringUtils import *
 from Parsing import *
 from DataType import *
 from Identification import *

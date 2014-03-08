@@ -19,10 +19,10 @@ import os, re
 import Common.EdkLogger as EdkLogger
 from Common.DataType import *
 from CommonDataClass.DataClass import *
-from Common.String import CleanString, GetSplitValueList, ReplaceMacro
+from Common.StringUtils import CleanString, GetSplitValueList, ReplaceMacro
 import EotGlobalData
 from Common.Misc import sdict
-from Common.String import GetSplitList
+from Common.StringUtils import GetSplitList
 
 ## PreProcess() method
 #

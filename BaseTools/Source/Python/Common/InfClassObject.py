@@ -19,7 +19,7 @@ import re
 import EdkLogger
 from CommonDataClass.CommonClass import LibraryClassClass
 from CommonDataClass.ModuleClass import *
-from String import *
+from StringUtils import *
 from DataType import *
 from Identification import *
 from Dictionary import *

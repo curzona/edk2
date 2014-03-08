@@ -20,7 +20,7 @@ import DataType
 from InfClassObject import *
 from DecClassObject import *
 from DscClassObject import *
-from String import *
+from StringUtils import *
 from BuildToolError import *
 from Misc import sdict
 import Database as Database

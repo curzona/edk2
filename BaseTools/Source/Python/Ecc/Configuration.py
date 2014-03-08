@@ -17,7 +17,7 @@
 import os
 import Common.EdkLogger as EdkLogger
 from Common.DataType import *
-from Common.String import *
+from Common.StringUtils import *
 
 ## Configuration
 #

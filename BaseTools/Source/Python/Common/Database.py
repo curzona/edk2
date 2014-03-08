@@ -19,7 +19,7 @@ import os
 
 import EdkLogger as EdkLogger
 from CommonDataClass.DataClass import *
-from String import *
+from StringUtils import *
 from DataType import *
 
 from Table.TableDataModel import TableDataModel

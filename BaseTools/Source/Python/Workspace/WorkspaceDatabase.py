@@ -23,7 +23,7 @@ import uuid
 import Common.EdkLogger as EdkLogger
 import Common.GlobalData as GlobalData
 
-from Common.String import *
+from Common.StringUtils import *
 from Common.DataType import *
 from Common.Misc import *
 from types import *

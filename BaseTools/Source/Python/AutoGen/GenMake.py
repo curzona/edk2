@@ -21,7 +21,7 @@ import os.path as path
 
 from Common.BuildToolError import *
 from Common.Misc import *
-from Common.String import *
+from Common.StringUtils import *
 from BuildEngine import *
 import Common.GlobalData as GlobalData
 

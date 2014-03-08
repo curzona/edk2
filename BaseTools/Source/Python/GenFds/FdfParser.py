@@ -46,11 +46,11 @@ from GenFdsGlobalVariable import GenFdsGlobalVariable
 from Common.BuildToolError import *
 from Common import EdkLogger
 from Common.Misc import PathClass
-from Common.String import NormPath
+from Common.StringUtils import NormPath
 import Common.GlobalData as GlobalData
 from Common.Expression import *
 from Common import GlobalData
-from Common.String import ReplaceMacro
+from Common.StringUtils import ReplaceMacro
 
 from Common.Misc import tdict
 

@@ -15,7 +15,7 @@
 # Import Modules
 #
 import os
-from String import *
+from StringUtils import *
 from DataType import *
 from Identification import *
 from Dictionary import *

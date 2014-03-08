@@ -18,7 +18,7 @@ import os, codecs, re
 import distutils.util
 import Common.EdkLogger as EdkLogger
 from Common.BuildToolError import *
-from Common.String import GetLineNo
+from Common.StringUtils import GetLineNo
 from Common.Misc import PathClass
 
 ##
